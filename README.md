@@ -1,16 +1,13 @@
-## Hi there 👋
+# YH_AM_IN
 
-<!--
-**Yeamin-Talukder/Yeamin-Talukder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m **Md Yeamin Talukder**, a CSE student from University of Barishal 🇧🇩.
 
-Here are some ideas to get you started:
+🔹 Online handle: `YH_AM_IN`  
+🔹 Competitive Programmer (Pupil @ Codeforces)  
+🔹 Passionate about C++, DSA, and Algorithms  
+🔹 Always learning and building!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:
+- 🌐 [Codeforces](https://codeforces.com/profile/YH_AM-IN)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yeamin-talukder/)
+- 💻 [GitHub](https://github.com/Yeamin-Talukder)
