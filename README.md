@@ -1,13 +1,30 @@
-# Md Yeamin Talukder (YH_AM_IN)
+# 👋 Hello, I’m Md Yeamin Talukder
 
-Hi! I’m **Md Yeamin Talukder**, a CSE student from University of Barishal 🇧🇩.
+🎓 CSE Student at University of Barishal | Passionate about solving problems, building systems, and learning AI.
 
-🔹 Online handle: `YH_AM_IN`  
-🔹 Competitive Programmer (Pupil @ Codeforces)  
-🔹 Passionate about C++, DSA, and Algorithms  
-🔹 Always learning and building!
+---
 
-📫 Connect with me:
-- 🌐 [Codeforces](https://codeforces.com/profile/YH_AM-IN)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yeamin-talukder/)
-- 💻 [GitHub](www.linkedin.com/in/yh-am-in)
+## 💡 About Me
+
+- 📫 Online handle: `YH_AM_IN`
+- 🔍 Interested in **Database Systems**, **Web Development**, and **LLM Models**
+- 🧑‍💻 Competitive Programmer — Pupil at [Codeforces](https://codeforces.com/profile/YH_AM-IN)
+- 🌐 Web projects using **HTML, CSS, JavaScript and PHP**
+- 🗃️ Familiar with SQL, MySQL and planning to dive deeper into **Database Management**
+- 🔬 Research-oriented mindset — always experimenting & learning!
+
+---
+
+## 📫 You Can Find Me Here
+
+- 🔗 [GitHub](https://github.com/Yeamin-Talukder)  
+- 🔗 [Codeforces: YH_AM_IN](https://codeforces.com/profile/YH_AM-IN)  
+- 🔗 [LinkedIn](www.linkedin.com/in/yh-am-in)
+
+---
+
+## 📊 GitHub Stats
+
+![Yeamin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeamin-Talukder&show_icons=true&theme=tokyonight)
+
+
