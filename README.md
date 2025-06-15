@@ -52,7 +52,7 @@
 
 <!-- WakaTime stats -->
 <!-- Replace `your_wakatime_username` -->
-[![WakaTime](https://wakatime.com/badge/user/your_wakatime_user.svg)](https://wakatime.com/@your_wakatime_user)
+[![WakaTime](https://wakatime.com/badge/user/YH_AM_IN.svg)](https://wakatime.com/@YH_AM_IN)
 
 
 
