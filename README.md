@@ -1,30 +1,40 @@
 # 👋 Hello, I’m Md Yeamin Talukder
 
-🎓 CSE Student at University of Barishal | Passionate about solving problems, building systems, and learning AI.
+🎓 CSE Student at University of Barishal  
+💻 Passionate about solving problems, building systems, and learning AI.
 
 ---
 
 ## 💡 About Me
 
-- 📫 Online handle: `YH_AM_IN`
-- 🔍 Interested in **Database Systems**, **Web Development**, and **LLM Models**
-- 🧑‍💻 Competitive Programmer — Pupil at [Codeforces](https://codeforces.com/profile/YH_AM-IN)
+- 🧑‍💼 Online handle: `YH_AM_IN`
+- 💾 Interested in **Database Systems**, **Web Development**, and **LLM Models**
+- 🧠 Research-oriented mindset — always experimenting & learning
+- 🧑‍💻 Competitive Programmer — Pupil at <a href="https://codeforces.com/profile/YH_AM-IN" target="_blank">Codeforces</a>
 - 🌐 Web projects using **HTML, CSS, JavaScript and PHP**
-- 🗃️ Familiar with SQL, MySQL and planning to dive deeper into **Database Management**
-- 🔬 Research-oriented mindset — always experimenting & learning!
+- 🗃️ Familiar with SQL, MySQL and exploring deeper **Database Management**
 
 ---
 
-## 📫 You Can Find Me Here
+## 🌍 Connect with Me
 
-- 🔗 [GitHub](https://github.com/Yeamin-Talukder)  
-- 🔗 [Codeforces: YH_AM_IN](https://codeforces.com/profile/YH_AM-IN)  
-- 🔗 [LinkedIn](www.linkedin.com/in/yh-am-in)
+- 🔗 <a href="https://github.com/Yeamin-Talukder" target="_blank">GitHub</a>  
+- 🔗 <a href="https://codeforces.com/profile/YH_AM-IN" target="_blank">Codeforces: YH_AM_IN</a>  
+- 🔗 <a href="https://www.linkedin.com/in/yh-am-in" target="_blank">LinkedIn</a>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Yeamin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeamin-Talukder&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeamin-Talukder&show_icons=true&theme=tokyonight" alt="Yeamin's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeamin-Talukder&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeamin-Talukder&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
+---
+
+> 🧭 **“Dream Keeps Us Alive.”**  
 
