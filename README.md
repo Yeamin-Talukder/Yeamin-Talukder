@@ -8,11 +8,11 @@
 ## 💡 About Me
 
 - 🧑‍💼 Online handle: `YH_AM_IN`
-- 💾 Interested in **Database Systems**, **Web Development**, and **LLM Models**
-- 🧠 Research-oriented mindset — always experimenting & learning
 - 🧑‍💻 Competitive Programmer — Pupil at <a href="https://codeforces.com/profile/YH_AM-IN" target="_blank">Codeforces</a>
 - 🌐 Web projects using **HTML, CSS, JavaScript and PHP**
 - 🗃️ Familiar with SQL, MySQL and exploring deeper **Database Management**
+- 💾 Interested in **Database Systems**, **Web Development**, and **LLM Models**
+- 🧠 Research-oriented mindset — always experimenting & learning
 
 ---
 
