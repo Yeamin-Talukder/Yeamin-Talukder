@@ -77,19 +77,13 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Yeamin-Talukder&show_icons=true&theme=tokyonight" alt="Yeamin's GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeamin-Talukder&theme=tokyonight" alt="GitHub Streak"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeamin-Talukder&layout=compact&theme=tokyonight" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeamin-Talukder&show_icons=true&theme=tokyonight" alt="Yeamin's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeamin-Talukder&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeamin-Talukder&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 
 ---
