@@ -71,9 +71,6 @@
 
 
 
-<!-- GitHub activity graph -->
-[![Yeamin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeamin-Talukder&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 
 ## 📊 GitHub Stats
 
@@ -84,6 +81,10 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeamin-Talukder&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<!-- GitHub activity graph -->
+[![Yeamin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeamin-Talukder&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 
 ---
