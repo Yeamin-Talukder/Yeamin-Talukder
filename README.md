@@ -53,5 +53,4 @@
 
 ---
 
-> 🧭 **“Dream Keeps Us Alive.”**  
 
