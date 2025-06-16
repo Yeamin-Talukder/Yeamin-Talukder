@@ -16,11 +16,30 @@
 
 ---
 
-## 🌍 Connect with Me
+## 🌐 Connect With Me
 
-- 🔗 <a href="https://codeforces.com/profile/YH_AM-IN" target="_blank">Codeforces: YH_AM_IN</a>  
-- 🔗 <a href="https://www.linkedin.com/in/yh-am-in" target="_blank">LinkedIn</a>
-- 🔗 <a href="https://github.com/Yeamin-Talukder" target="_blank">GitHub</a>  
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://codeforces.com/profile/YH_AM-IN" target="_blank">
+        <img src="https://img.icons8.com/?size=50&id=jldAN67IAsrW&format=png&color=000000" width="40"/><br/>
+        <sub><b>Codeforces</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/yh-am-in" target="_blank">
+        <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000" width="40"/><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yeamin-Talukder" target="_blank">
+        <img src="https://img.icons8.com/?size=50&id=AZOZNnY73haj&format=png&color=000000" width="40"/><br/>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
