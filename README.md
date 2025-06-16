@@ -1,12 +1,16 @@
-# 👋 Hello, I’m Md Yeamin Talukder
+
+# 👋 Hi, I’m Md Yeamin Talukder
 
 🎓 CSE Student at University of Barishal  
 💻 Passionate about solving problems, building systems, and learning AI.
 
 ---
 
-## 💡 About Me
+ <img  align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" 
+       alt="Right Side Banner"
+       style="width: 35vh;"/>
 
+## 💡 About Me
 - 🧑‍💼 Online handle: `YH_AM_IN`
 - 🧑‍💻 Competitive Programmer — Pupil at <a href="https://codeforces.com/profile/YH_AM-IN" target="_blank">Codeforces</a>
 - 🌐 Web projects using **HTML, CSS, JavaScript and PHP**
