@@ -1,4 +1,3 @@
-
 # 👋 Hi, I’m Md Yeamin Talukder
 
 🎓 CSE Student at University of Barishal  
@@ -17,6 +16,11 @@
 - 🗃️ Familiar with SQL, MySQL and exploring deeper **Database Management**
 - 💾 Interested in **Database Systems**, **Web Development**, and **LLM Models**
 - 🧠 Research-oriented mindset — always experimenting & learning
+
+![CSE Student](https://img.shields.io/badge/Student-CSE-blue)
+![Open to Work](https://img.shields.io/badge/Open%20To-Internship-success)
+![Competitive Programmer](https://img.shields.io/badge/Codeforces-Pupil-blueviolet)
+
 
 ---
 
@@ -59,12 +63,16 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Yeamin-Talukder&color=blue)
+---
+## ⏱️ Weekly Coding Stats
 
 [![wakatime](https://wakatime.com/badge/user/b01ebb11-341e-4df8-8bf0-ed7074306e27.svg)](https://wakatime.com/@b01ebb11-341e-4df8-8bf0-ed7074306e27)
+![Visitor Count](https://komarev.com/ghpvc/?username=Yeamin-Talukder&color=blue)
+
+
+
+<!-- GitHub activity graph -->
+[![Yeamin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeamin-Talukder&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 ## 📊 GitHub Stats
@@ -79,5 +87,8 @@
 
 
 ---
+<p align="center">
+  🔥 <b>Md Yeamin Talukder</b> | <b>YH_AM_IN</b> | 🙌 Keep Learning, Keep Building!
+</p>
 
 
