@@ -44,9 +44,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yeamin-Talukder&theme=tokyonight&no-frame=true" />
-</p>
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Yeamin-Talukder&color=blue)
 
