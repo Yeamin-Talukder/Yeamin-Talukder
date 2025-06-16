@@ -18,9 +18,9 @@
 
 ## 🌍 Connect with Me
 
-- 🔗 <a href="https://github.com/Yeamin-Talukder" target="_blank">GitHub</a>  
 - 🔗 <a href="https://codeforces.com/profile/YH_AM-IN" target="_blank">Codeforces: YH_AM_IN</a>  
 - 🔗 <a href="https://www.linkedin.com/in/yh-am-in" target="_blank">LinkedIn</a>
+- 🔗 <a href="https://github.com/Yeamin-Talukder" target="_blank">GitHub</a>  
 
 ---
 
