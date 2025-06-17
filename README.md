@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://github.com/Yeamin-Talukder/Yeamin-Talukder/blob/main/Cover.gif?raw=true" alt="Cover Banner" width="100%" />
+</p>
+
+
 # 👋 Hi, I’m Md Yeamin Talukder
 
 🎓 CSE Student at University of Barishal  
