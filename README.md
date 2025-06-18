@@ -53,11 +53,12 @@
       </a>
     </td>
     <td align="center">
-      <a href="mailto:mdyeamen611@gmail.com">
-        <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" width="40"/><br/>
-        <sub><b>Email</b></sub>
-      </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdyeamen611@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" width="40"/><br/>
+  <sub><b>Email</b></sub>
+</a>
     </td>
+    
   </tr>
 </table>
 
