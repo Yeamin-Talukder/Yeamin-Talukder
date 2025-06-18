@@ -78,7 +78,7 @@
 </p>
 
 ---
-## ⏱️ Weekly Coding Stats
+## 🕒 Weekly Coding Stats
 
 [![wakatime](https://wakatime.com/badge/user/b01ebb11-341e-4df8-8bf0-ed7074306e27.svg)](https://wakatime.com/@b01ebb11-341e-4df8-8bf0-ed7074306e27)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Yeamin-Talukder&color=blue)
