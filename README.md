@@ -85,7 +85,11 @@
 
 ---
 
-## 📊 GitHub Stats
+
+<h2>
+  <img src="https://img.icons8.com/?size=30&id=13551&format=png&color=000000" />
+  <b>&nbsp;GitHub Stats</b>
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yeamin-Talukder&show_icons=true&theme=tokyonight" alt="Yeamin's GitHub Stats" />
@@ -94,6 +98,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeamin-Talukder&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 <!-- GitHub activity graph -->
 [![Yeamin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeamin-Talukder&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
