@@ -4,10 +4,11 @@
 </p>
 
 
-# 👋 Hi, I’m Md Yeamin Talukder
+# 👋 Hi, I’m Md Yeamin Talukder 
 
 🎓 CSE Student at University of Barishal  
 💻 Passionate about solving problems, building systems, and learning AI.
+
 
 ---
 
@@ -85,6 +86,19 @@
 
 
 ---
+
+
+
+## Codeforces Stats
+
+[![Codeforces Badge](https://codeforces-stats-vlx.vercel.app/api/badge?username=YH_AM-IN&theme=tokyonight)](https://codeforces.com/profile/YH_AM-IN)
+
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=YH_AM-IN&theme=tokyonight)](https://codeforces.com/profile/YH_AM-IN)
+
+![Codeforces Graph](https://codeforces-stats-vlx.vercel.app/api/graph?username=YH_AM-IN&theme=tokyonight)
+
+
+
 
 
 <h2>
