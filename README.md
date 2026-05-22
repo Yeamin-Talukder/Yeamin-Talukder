@@ -26,7 +26,7 @@
 
 ![CSE Student](https://img.shields.io/badge/Student-CSE-blue)
 ![Open to Work](https://img.shields.io/badge/Open%20To-Internship-success)
-![Competitive Programmer](https://img.shields.io/badge/Codeforces-Pupil-blueviolet)
+![Competitive Programmer](https://img.shields.io/badge/Codeforces-Specialist-cyan)
 
 
 ---
