@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-labelledby="t d">
+  <title id="t">Md Yeamin Talukder (YH_AM_IN)</title>
+  <desc id="d">CSE Student at University of Barishal. Passionate about solving problems, building systems, and learning AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16161e"/>
+      <stop offset="0.55" stop-color="#1a1b26"/>
+      <stop offset="1" stop-color="#24283b"/>
+    </linearGradient>
+    <radialGradient id="glowL" cx="0.18" cy="0.2" r="0.55">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowR" cx="0.8" cy="0.75" r="0.5">
+      <stop offset="0" stop-color="#bb9af7" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#bb9af7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c0caf5"/>
+      <stop offset="1" stop-color="#7dcfff"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#3b4261" fill-opacity="0.55"/>
+    </pattern>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <style>
+      .mono { font-family: 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace; }
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+
+      /* A breadth-first search walks the graph, one level at a time, then starts again. */
+      .node { fill: #1f2335; stroke: #565f89; stroke-width: 2; animation: visit 8s ease-in-out infinite; }
+      .halo { fill: #7aa2f7; opacity: 0; animation: halo 8s ease-in-out infinite; }
+      .edge { stroke: #3b4261; stroke-width: 2.5; stroke-linecap: round; animation: walk 8s ease-in-out infinite; }
+      .lbl { fill: #a9b1d6; font-size: 15px; text-anchor: middle; dominant-baseline: central; }
+      @keyframes visit {
+        0%, 6% { fill: #1f2335; stroke: #565f89; }
+        12%, 80% { fill: #2a3a5e; stroke: #7dcfff; }
+        92%, 100% { fill: #1f2335; stroke: #565f89; }
+      }
+      @keyframes halo {
+        0%, 6% { opacity: 0; }
+        12% { opacity: 0.55; }
+        30%, 80% { opacity: 0.18; }
+        92%, 100% { opacity: 0; }
+      }
+      @keyframes walk {
+        0%, 6% { stroke: #3b4261; }
+        12%, 80% { stroke: #7aa2f7; }
+        92%, 100% { stroke: #3b4261; }
+      }
+      .d0 { animation-delay: 0s; }
+      .d1 { animation-delay: 0.7s; }
+      .d2 { animation-delay: 1.4s; }
+      .d3 { animation-delay: 2.1s; }
+      @media (prefers-reduced-motion: reduce) {
+        .cursor, .node, .halo, .edge { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="18" fill="url(#dots)"/>
+  <rect width="1280" height="360" rx="18" fill="url(#glowL)"/>
+  <rect width="1280" height="360" rx="18" fill="url(#glowR)"/>
+
+  <!-- Faint code in the background -->
+  <g class="mono" fill="#414868" font-size="14" opacity="0.6">
+    <text x="760" y="40">queue&lt;int&gt; q; q.push(src);</text>
+    <text x="760" y="62">while (!q.empty()) {</text>
+    <text x="780" y="84">int u = q.front(); q.pop();</text>
+    <text x="780" y="106">for (int v : adj[u]) if (!seen[v]) …</text>
+    <text x="760" y="128">}</text>
+  </g>
+
+  <!-- Left: who I am -->
+  <g transform="translate(72 0)">
+    <text x="0" y="104" class="mono" font-size="22" fill="#9ece6a">&gt; whoami<tspan class="cursor" fill="#c0caf5"> ▌</tspan></text>
+    <text x="0" y="172" class="sans" font-size="58" font-weight="700" fill="url(#name)">Md Yeamin Talukder</text>
+    <text x="0" y="218" class="sans" font-size="24" fill="#c0caf5">CSE Student at University of Barishal</text>
+    <text x="0" y="254" class="sans" font-size="19" fill="#9aa5ce">Passionate about solving problems, building systems, and learning AI.</text>
+
+    <!-- Handle chips -->
+    <g class="mono" font-size="16">
+      <rect x="0" y="282" width="150" height="34" rx="17" fill="#7aa2f7" fill-opacity="0.14" stroke="#7aa2f7" stroke-opacity="0.6"/>
+      <text x="75" y="304" text-anchor="middle" fill="#7dcfff">@YH_AM_IN</text>
+      <rect x="164" y="282" width="236" height="34" rx="17" fill="#bb9af7" fill-opacity="0.12" stroke="#bb9af7" stroke-opacity="0.55"/>
+      <text x="282" y="304" text-anchor="middle" fill="#bb9af7">Codeforces Specialist</text>
+      <rect x="414" y="282" width="190" height="34" rx="17" fill="#9ece6a" fill-opacity="0.12" stroke="#9ece6a" stroke-opacity="0.55"/>
+      <text x="509" y="304" text-anchor="middle" fill="#9ece6a">Open to Internship</text>
+    </g>
+  </g>
+
+  <!-- Right: a graph being explored breadth-first -->
+  <g transform="translate(0 6)">
+    <g>
+      <line class="edge d1" x1="1050" y1="150" x2="960" y2="215"/>
+      <line class="edge d1" x1="1050" y1="150" x2="1140" y2="215"/>
+      <line class="edge d2" x1="960" y1="215" x2="900" y2="290"/>
+      <line class="edge d2" x1="960" y1="215" x2="1010" y2="290"/>
+      <line class="edge d2" x1="1140" y1="215" x2="1090" y2="290"/>
+      <line class="edge d2" x1="1140" y1="215" x2="1200" y2="290"/>
+      <line class="edge d3" x1="1010" y1="290" x2="1090" y2="290"/>
+    </g>
+    <g class="mono">
+      <circle class="halo d0" cx="1050" cy="150" r="30" filter="url(#soft)"/>
+      <circle class="node d0" cx="1050" cy="150" r="20"/><text class="lbl" x="1050" y="150">1</text>
+
+      <circle class="halo d1" cx="960" cy="215" r="28" filter="url(#soft)"/>
+      <circle class="node d1" cx="960" cy="215" r="18"/><text class="lbl" x="960" y="215">2</text>
+      <circle class="halo d1" cx="1140" cy="215" r="28" filter="url(#soft)"/>
+      <circle class="node d1" cx="1140" cy="215" r="18"/><text class="lbl" x="1140" y="215">3</text>
+
+      <circle class="halo d2" cx="900" cy="290" r="26" filter="url(#soft)"/>
+      <circle class="node d2" cx="900" cy="290" r="16"/><text class="lbl" x="900" y="290">4</text>
+      <circle class="halo d2" cx="1010" cy="290" r="26" filter="url(#soft)"/>
+      <circle class="node d2" cx="1010" cy="290" r="16"/><text class="lbl" x="1010" y="290">5</text>
+      <circle class="halo d2" cx="1090" cy="290" r="26" filter="url(#soft)"/>
+      <circle class="node d2" cx="1090" cy="290" r="16"/><text class="lbl" x="1090" y="290">6</text>
+      <circle class="halo d2" cx="1200" cy="290" r="26" filter="url(#soft)"/>
+      <circle class="node d2" cx="1200" cy="290" r="16"/><text class="lbl" x="1200" y="290">7</text>
+    </g>
+  </g>
+</svg>
