@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-labelledby="t">
+  <title id="t">An anime-style coder types a solution, stretches his arm to hit Submit, and cheers at "Accepted"</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a2f45"/>
+      <stop offset="1" stop-color="#1f2335"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: 'JetBrains Mono', Consolas, Menlo, monospace; }
+      .sans { font-family: 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+      * { transform-box: fill-box; }
+
+      /* One 6-second loop: type → stretch → submit → Accepted! → back to typing. */
+      .type   { animation: type 6s infinite; }
+      .tapL   { animation: tapL 6s infinite; transform-origin: center; }
+      .tapR   { animation: tapR 6s infinite; transform-origin: center; }
+      .line1  { animation: line1 6s infinite; transform-origin: left center; }
+      .line2  { animation: line2 6s infinite; transform-origin: left center; }
+      .line3  { animation: line3 6s infinite; transform-origin: left center; }
+      .line4  { animation: line4 6s infinite; transform-origin: left center; }
+      .stretch{ stroke-dasharray: 200; animation: stretch 6s infinite; }
+      .fist   { animation: fist 6s infinite; }
+      .btn    { animation: btn 6s infinite; transform-origin: center; }
+      .ac     { animation: ac 6s infinite; transform-origin: center; }
+      .calm   { animation: calm 6s infinite; }
+      .happy  { animation: happy 6s infinite; }
+      .spark  { animation: spark 6s infinite; transform-origin: center; }
+      .bob    { animation: bob 6s infinite; }
+
+      @keyframes tapL { 0%,38% { transform: translateY(0); } 4%,12%,20%,28%,36% { transform: translateY(-5px); } 8%,16%,24%,32% { transform: translateY(1px); } 40%,100% { transform: translateY(0); } }
+      @keyframes tapR { 0%,36% { transform: translateY(0); opacity: 1; } 6%,14%,22%,30% { transform: translateY(-5px); } 10%,18%,26%,34% { transform: translateY(1px); } 37%,57% { opacity: 0; } 58%,100% { opacity: 1; transform: translateY(0); } }
+      @keyframes line1 { 0% { transform: scaleX(0); } 8%,88% { transform: scaleX(1); } 94%,100% { transform: scaleX(0); } }
+      @keyframes line2 { 0%,8% { transform: scaleX(0); } 17%,88% { transform: scaleX(1); } 94%,100% { transform: scaleX(0); } }
+      @keyframes line3 { 0%,17% { transform: scaleX(0); } 26%,88% { transform: scaleX(1); } 94%,100% { transform: scaleX(0); } }
+      @keyframes line4 { 0%,26% { transform: scaleX(0); } 35%,88% { transform: scaleX(1); } 94%,100% { transform: scaleX(0); } }
+      @keyframes stretch { 0%,37% { stroke-dashoffset: 200; opacity: 0; } 38% { opacity: 1; stroke-dashoffset: 200; } 44%,48% { stroke-dashoffset: 0; opacity: 1; } 56% { stroke-dashoffset: 200; opacity: 1; } 57%,100% { opacity: 0; stroke-dashoffset: 200; } }
+      @keyframes fist { 0%,37% { transform: translate(0,0); opacity: 0; } 38% { opacity: 1; transform: translate(0,0); } 44%,48% { transform: translate(100px,-58px); opacity: 1; } 56% { transform: translate(0,0); opacity: 1; } 57%,100% { opacity: 0; } }
+      @keyframes btn { 0%,43% { transform: scale(1); } 45% { transform: scale(0.86); } 50%,100% { transform: scale(1); } }
+      @keyframes ac { 0%,46% { transform: scale(0); opacity: 0; } 51% { transform: scale(1.15); opacity: 1; } 55%,84% { transform: scale(1); opacity: 1; } 90%,100% { transform: scale(0.6); opacity: 0; } }
+      @keyframes calm { 0%,47% { opacity: 1; } 49%,86% { opacity: 0; } 88%,100% { opacity: 1; } }
+      @keyframes happy { 0%,47% { opacity: 0; } 49%,86% { opacity: 1; } 88%,100% { opacity: 0; } }
+      @keyframes spark { 0%,48% { opacity: 0; transform: scale(0.3) rotate(0deg); } 54% { opacity: 1; transform: scale(1.1) rotate(45deg); } 70% { opacity: 1; transform: scale(0.9) rotate(90deg); } 84%,100% { opacity: 0; transform: scale(0.3) rotate(135deg); } }
+      @keyframes bob { 0%,47% { transform: translateY(0); } 52% { transform: translateY(-7px); } 57% { transform: translateY(0); } 62% { transform: translateY(-5px); } 67%,100% { transform: translateY(0); } }
+      .cursor { animation: blink 0.8s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .happy, .ac, .spark, .stretch, .fist { opacity: 0; } }
+    </style>
+  </defs>
+
+  <!-- Background blob -->
+  <path d="M70 120 Q60 50 140 52 Q200 20 270 48 Q350 52 345 130 Q385 175 350 235 Q365 330 270 335 Q200 365 120 335 Q40 330 52 250 Q20 190 70 120 Z" fill="url(#sky)"/>
+  <g fill="#c0caf5" opacity="0.5">
+    <circle cx="96" cy="160" r="1.6"/><circle cx="318" cy="250" r="1.4"/><circle cx="300" cy="70" r="1.2"/><circle cx="80" cy="240" r="1.2"/>
+  </g>
+
+  <!-- Code bubble: lines appear as he types -->
+  <g>
+    <rect x="34" y="66" width="122" height="78" rx="10" fill="#16161e" stroke="#414868"/>
+    <path d="M120 144 L132 160 L136 144 Z" fill="#16161e" stroke="#414868"/>
+    <rect x="118" y="142" width="20" height="4" fill="#16161e"/>
+    <circle cx="46" cy="77" r="2.5" fill="#f7768e"/><circle cx="55" cy="77" r="2.5" fill="#e0af68"/><circle cx="64" cy="77" r="2.5" fill="#9ece6a"/>
+    <rect class="line1" x="46" y="90" width="70" height="5" rx="2.5" fill="#bb9af7"/>
+    <rect class="line2" x="56" y="102" width="84" height="5" rx="2.5" fill="#7aa2f7"/>
+    <rect class="line3" x="56" y="114" width="52" height="5" rx="2.5" fill="#7dcfff"/>
+    <rect class="line4" x="46" y="126" width="38" height="5" rx="2.5" fill="#9ece6a"/>
+    <rect class="cursor" x="88" y="125" width="3" height="7" fill="#c0caf5"/>
+  </g>
+
+  <!-- Submit button and verdict -->
+  <g class="btn">
+    <rect x="300" y="152" width="74" height="30" rx="8" fill="#3d59a1" stroke="#7aa2f7" stroke-width="2"/>
+    <text x="337" y="172" text-anchor="middle" class="sans" font-size="13" font-weight="700" fill="#e9eeff">SUBMIT</text>
+  </g>
+  <g class="ac">
+    <rect x="254" y="92" width="128" height="34" rx="17" fill="#9ece6a" filter="url(#glow)"/>
+    <text x="318" y="114" text-anchor="middle" class="sans" font-size="15" font-weight="800" fill="#1a1b26">Accepted ✓</text>
+  </g>
+
+  <!-- The coder -->
+  <g class="bob">
+    <!-- Hoodie -->
+    <path d="M118 312 Q122 222 200 214 Q278 222 282 312 Z" fill="#41a6b5"/>
+    <path d="M168 220 Q200 252 232 220" fill="none" stroke="#2f7f8b" stroke-width="5" stroke-linecap="round"/>
+    <line x1="188" y1="234" x2="186" y2="262" stroke="#e9eeff" stroke-width="3" stroke-linecap="round"/>
+    <line x1="212" y1="234" x2="214" y2="262" stroke="#e9eeff" stroke-width="3" stroke-linecap="round"/>
+    <!-- Neck -->
+    <rect x="188" y="190" width="24" height="26" rx="8" fill="#f2c4a2"/>
+    <!-- Head -->
+    <ellipse cx="200" cy="150" rx="46" ry="50" fill="#f8d5b8"/>
+    <ellipse cx="154" cy="156" rx="7" ry="11" fill="#f2c4a2"/>
+    <ellipse cx="246" cy="156" rx="7" ry="11" fill="#f2c4a2"/>
+    <!-- Spiky hair -->
+    <path d="M150 146 L140 112 L160 118 L158 88 L180 104 L188 74 L204 98 L222 72 L228 100 L250 86 L246 116 L262 114 L250 146 Q244 112 200 108 Q158 110 150 146 Z" fill="#1f2335"/>
+    <path d="M156 132 L168 156 L176 126 L188 150 L196 122 L208 148 L216 122 L228 152 L236 126 L246 140 Q234 108 200 106 Q168 106 156 132 Z" fill="#1f2335"/>
+    <!-- Headband -->
+    <path d="M154 128 Q200 112 246 128 L246 136 Q200 121 154 136 Z" fill="#f7768e"/>
+    <path d="M246 130 L268 122 L262 134 L272 142 L248 136 Z" fill="#f7768e"/>
+    <!-- Blush -->
+    <ellipse cx="172" cy="174" rx="8" ry="4" fill="#f7768e" opacity="0.35"/>
+    <ellipse cx="228" cy="174" rx="8" ry="4" fill="#f7768e" opacity="0.35"/>
+    <!-- Focused face -->
+    <g class="calm">
+      <path d="M168 142 L186 146" stroke="#1f2335" stroke-width="3.5" stroke-linecap="round"/>
+      <path d="M232 142 L214 146" stroke="#1f2335" stroke-width="3.5" stroke-linecap="round"/>
+      <ellipse cx="180" cy="160" rx="8.5" ry="11" fill="#1f2335"/>
+      <ellipse cx="220" cy="160" rx="8.5" ry="11" fill="#1f2335"/>
+      <ellipse cx="181" cy="162" rx="5" ry="7" fill="#7aa2f7"/>
+      <ellipse cx="221" cy="162" rx="5" ry="7" fill="#7aa2f7"/>
+      <circle cx="177" cy="155" r="3" fill="#ffffff"/><circle cx="217" cy="155" r="3" fill="#ffffff"/>
+      <circle cx="183" cy="166" r="1.4" fill="#ffffff"/><circle cx="223" cy="166" r="1.4" fill="#ffffff"/>
+      <path d="M192 184 Q200 188 208 184" fill="none" stroke="#c0605a" stroke-width="3" stroke-linecap="round"/>
+    </g>
+    <!-- Happy face: ^ ^ eyes and a big grin -->
+    <g class="happy">
+      <path d="M170 140 L186 136" stroke="#1f2335" stroke-width="3.5" stroke-linecap="round"/>
+      <path d="M230 140 L214 136" stroke="#1f2335" stroke-width="3.5" stroke-linecap="round"/>
+      <path d="M170 164 Q180 150 190 164" fill="none" stroke="#1f2335" stroke-width="4" stroke-linecap="round"/>
+      <path d="M210 164 Q220 150 230 164" fill="none" stroke="#1f2335" stroke-width="4" stroke-linecap="round"/>
+      <path d="M180 178 Q200 178 220 178 Q218 202 200 203 Q182 202 180 178 Z" fill="#8c2f39"/>
+      <path d="M182 179 Q200 179 218 179 L216 185 Q200 186 184 185 Z" fill="#ffffff"/>
+      <path d="M190 196 Q200 190 210 196 Q206 202 200 202 Q194 202 190 196 Z" fill="#f7768e"/>
+    </g>
+  </g>
+
+  <!-- Sparkles -->
+  <g fill="#e0af68">
+    <path class="spark" d="M150 78 l4 10 l10 4 l-10 4 l-4 10 l-4 -10 l-10 -4 l10 -4 Z"/>
+    <path class="spark" d="M262 182 l3 8 l8 3 l-8 3 l-3 8 l-3 -8 l-8 -3 l8 -3 Z"/>
+    <path class="spark" d="M118 196 l3 7 l7 3 l-7 3 l-3 7 l-3 -7 l-7 -3 l7 -3 Z"/>
+  </g>
+
+  <!-- Laptop (seen from behind) -->
+  <path d="M136 236 L264 236 L272 304 L128 304 Z" fill="#1a1b26" stroke="#414868" stroke-width="2"/>
+  <text x="200" y="276" text-anchor="middle" class="mono" font-size="16" font-weight="700" fill="#7dcfff" filter="url(#glow)">&lt;/&gt;</text>
+
+  <!-- Hands typing on the keyboard edge -->
+  <g class="tapL"><circle cx="150" cy="238" r="11" fill="#f8d5b8"/></g>
+  <g class="tapR"><circle cx="250" cy="238" r="11" fill="#f8d5b8"/></g>
+
+  <!-- The rubbery stretching arm -->
+  <path class="stretch" d="M250 236 C 290 262, 296 170, 338 178" fill="none" stroke="#41a6b5" stroke-width="12" stroke-linecap="round"/>
+  <g class="fist">
+    <circle cx="238" cy="236" r="13" fill="#f8d5b8" stroke="#e8b48e" stroke-width="2"/>
+    <path d="M232 230 L244 230 M231 236 L245 236" stroke="#e8b48e" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Desk -->
+  <rect x="60" y="304" width="290" height="12" rx="6" fill="#a47551"/>
+  <rect x="78" y="272" width="22" height="32" rx="4" fill="#f7768e"/>
+  <path d="M100 280 Q112 284 100 296" fill="none" stroke="#f7768e" stroke-width="4"/>
+  <path d="M84 266 Q88 258 84 250 M92 266 Q96 258 92 250" fill="none" stroke="#c0caf5" stroke-width="2" opacity="0.5" stroke-linecap="round"/>
+</svg>

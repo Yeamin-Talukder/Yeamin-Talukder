@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Right Side Banner" width="300"/>
+<img align="right" src="./anime-coder.svg" alt="Anime-style coder: types a solution, stretches his arm to hit Submit, and cheers at Accepted" width="300"/>
 
 ## 💡 About Me
 - 🧑‍💼 Online handle: `YH_AM_IN`
