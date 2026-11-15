@@ -64,9 +64,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Yeamin-Talukder/BU-RESEARCH-PORTAL">🎓 BU Research Portal</a></h3>
-      A web platform for academic research <b>submissions, peer review and publication</b> for Barishal University.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+      <h3><a href="https://github.com/Yeamin-Talukder/Current-Detection">⚡ Current Detection</a></h3>
+      An Android app to <b>monitor the home current timeline</b>, using Wi-Fi as the current-sensing sensor.<br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Yeamin-Talukder/Barishal-University-Bus-Tracking-App">🚌 BU Bus Tracker</a></h3>
@@ -84,7 +84,7 @@
 
 | Project | About |
 |---|---|
-| [Current-Detection](https://github.com/Yeamin-Talukder/Current-Detection) | Android app that monitors the home current timeline using Wi-Fi as the sensor (Java) |
+| [BU-RESEARCH-PORTAL](https://github.com/Yeamin-Talukder/BU-RESEARCH-PORTAL) | Research submissions, peer review and publication platform for Barishal University (TypeScript) |
 | [Chess-app](https://github.com/Yeamin-Talukder/Chess-app) | Chess app (Kotlin) |
 | [Recipe-App](https://github.com/Yeamin-Talukder/Recipe-App) | Culinary companion built with Flutter, Provider & Firebase |
 | [NFC-HUB](https://github.com/Yeamin-Talukder/NFC-HUB) | PHP website ([live](https://nfc-hub.infinityfree.me/)) |
