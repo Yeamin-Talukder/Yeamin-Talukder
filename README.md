@@ -23,6 +23,7 @@
 ## 💡 About Me
 - 🧑‍💼 Online handle: `YH_AM_IN`
 - 🧑‍💻 Competitive Programmer — Specialist at <a href="https://codeforces.com/profile/YH_AM-IN" target="_blank">Codeforces</a>
+- 📱 Android apps with **Kotlin** and **Flutter**, with on-device AI
 - 🌐 Web projects using **HTML, CSS, JavaScript and PHP**
 - 🗃️ Familiar with SQL, MySQL and exploring deeper **Database Management**
 - 💾 Interested in **Database Systems**, **Web Development**, and **LLM Models**
@@ -38,7 +39,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Yeamin-Talukder/jolpai-keyboard">🫒 Jolpai Keyboard</a></h3>
-      Free, open-source, privacy-first <b>Bangla & English keyboard</b> for Android: Avro phonetic, the National (জাতীয়) layout, offline translation, voice typing, clipboard and 64 themes.<br/><br/>
+      Free, open-source, <b>AI-powered Bangla & English keyboard</b> for Android: on-device next-word and emoji prediction, Avro phonetic, National (জাতীয়) & প্রভাত layouts, offline spell check and translation, 64 themes. No ads. <a href="https://yeamin-talukder.github.io/jolpai-keyboard/">Website</a><br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin"/>
       <a href="https://github.com/Yeamin-Talukder/jolpai-keyboard/releases/latest"><img src="https://img.shields.io/github/v/release/Yeamin-Talukder/jolpai-keyboard?label=download&color=6E8A2C" alt="Latest release"/></a>
     </td>
@@ -68,9 +69,11 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Yeamin-Talukder/Current-Detection">⚡ Current Detection</a></h3>
-      An Android app to <b>monitor the home current timeline</b>, using Wi-Fi as the current-sensing sensor.<br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
+      <h3><a href="https://github.com/Yeamin-Talukder/Barishal-University-Bus-Tracking-App">🚌 BU Bus Tracker</a></h3>
+      <b>Live bus location</b>, the official bus schedule, stops and an offline map for University of Barishal students.<br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase"/>
+      <a href="https://github.com/Yeamin-Talukder/Barishal-University-Bus-Tracking-App/releases/latest"><img src="https://img.shields.io/github/v/release/Yeamin-Talukder/Barishal-University-Bus-Tracking-App?label=download&color=1F6FEB" alt="Latest release"/></a>
     </td>
   </tr>
 </table>
@@ -81,6 +84,7 @@
 
 | Project | About |
 |---|---|
+| [Current-Detection](https://github.com/Yeamin-Talukder/Current-Detection) | Android app that monitors the home current timeline using Wi-Fi as the sensor (Java) |
 | [Chess-app](https://github.com/Yeamin-Talukder/Chess-app) | Chess app (Kotlin) |
 | [Recipe-App](https://github.com/Yeamin-Talukder/Recipe-App) | Culinary companion built with Flutter, Provider & Firebase |
 | [NFC-HUB](https://github.com/Yeamin-Talukder/NFC-HUB) | PHP website ([live](https://nfc-hub.infinityfree.me/)) |
@@ -116,6 +120,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
